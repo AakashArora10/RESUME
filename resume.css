@@ -1,0 +1,53 @@
+.c1
+{
+height:200px;
+width:1450px;
+background-color:#063B6B;
+}
+.c2
+{
+	color:white;
+	margin-top:-170px;
+	font-size:30px;
+	font-family:@Kozuka Mincho Pr6N H;
+}
+.c3
+{
+	width:400px;
+	height:1400px;
+	background-color:#1E2226;
+	margin-left:20px;
+	margin-top:-250px;
+}
+img
+{
+	height:250px;
+	width:200px;
+
+	margin-top:40px;
+	opacity:1.0;
+}
+.c5
+{
+	margin-left:40px;
+	color:white;
+	width:80%;
+}
+.c6
+{
+	width:900px;
+	height:800px;
+	margin-left:480px;
+	margin-top:-1140px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 900px;
+   height:40px;
+  padding: :2px;
+}
+ul
+{
+ font-size:20px;
+}
